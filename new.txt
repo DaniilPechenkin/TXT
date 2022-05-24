@@ -1,0 +1,5 @@
+Name: Daniil
+Surname: Pechenkin
+Age: 28
+Pets: 0
+Desired salary: 4000$

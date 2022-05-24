@@ -1,0 +1,7 @@
+favorit movie: I like different films
+favorit series: true detective
+favorit food: National cuisine
+favorit season: summer
+I want to visit the county: Germany
+
+
